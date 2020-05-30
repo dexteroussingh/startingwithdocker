@@ -1,3 +1,6 @@
 DAY-1: CREATING AND USING CONTAINERS
 Use any terminal supporting your device, either powershell for windows, terminals in ,mac or linux and let's get started.
 To try and test that your docker daemon is running or not type in: docker version & enter 
+cmd-2: docker info (Will show most congfiguration values for the engine)
+Docker command line structure: old style- docker <command> (options)
+Docker command line structure: new style- docker <command> <sub-command> (options)
