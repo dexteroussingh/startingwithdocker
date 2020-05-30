@@ -1,0 +1,4 @@
+Day-1: Starting a Nginx web server our first container
+Image vs Container 
+Image- An image is the application we want to run 
+Container- A container is an instance of that image running as a process, we have many containers running of the same image.
