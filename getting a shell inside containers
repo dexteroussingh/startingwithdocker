@@ -1,0 +1,6 @@
+Follow the commands here:
+docker container run -it : starts new container interactively
+docker container exec -it: run additonal command in existing container
+Alpine Linux distribution:
+docker container run -it alpine bash :(Will give us an error as alpine linux does not container bash shell because of being very small in size) 
+docke container run -it alpine sh : this will run a sh shell for us inside alpine linux and hence we can see the usage through ~# apk (enter)
